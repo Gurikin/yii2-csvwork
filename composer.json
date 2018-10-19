@@ -1,0 +1,30 @@
+{
+    "name": "gurikin/yii2-csvwork",
+    "description": "This extension can help You with read & edit the csv files",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","csv"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Banchikov",
+            "email": "gurikin@yandex.ru",
+            "homepage": "https://github.com/gurikin/yii2-csvwork",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "kartik-v/yii2-grid": "@dev",
+        "kartik-v/yii2-widget-activeform": "@dev",
+        "kartik-v/yii2-builder": "dev-master"
+    },
+    "extra": {
+        "bootstrap" : "gurikin\\csvwork\\CSVWorkBootstrap"
+    },
+    "autoload": {
+        "psr-4": {
+            "gurikin\\csvwork\\": "src"
+        }
+    }
+}
