@@ -22,6 +22,15 @@ or add
 
 to the require section of your `composer.json` file.
 
+Setup
+-----
+
+This extension don't need in additional settings, but for the review of needed setups for the dependencies, please pass to the:
+
+```
+https://github.com/kartik-v
+```
+
 Usage
 -----
 
