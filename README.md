@@ -6,6 +6,7 @@ Installation
 ------------
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+Because of dependences You need to setup `"minimum-stability": "dev"` in Your `composer.json` file.
 
 Either run
 

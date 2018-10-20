@@ -14,7 +14,7 @@ echo Html::beginForm('', '', ['class'=>'form-horizontal']);
 echo Form::widget([
     // formName is mandatory for non active forms
     // you can get all attributes in your controller
-    // using $_POST['kvform']
+    // using $_POST['csvStringForm']
     'formName'=>'csvStringForm',
 
     // default grid columns

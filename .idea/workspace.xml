@@ -30,87 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WorkController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controllers/WorkController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
-              <folding>
-                <element signature="e#129#180#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CSVModel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/models/CSVModel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
-              <folding>
-                <element signature="e#43#94#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/work/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/work/update.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_form.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/work/_form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
-              <folding>
-                <element signature="e#7#28#0#PHP" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/work/view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CSVWorkBootstrap.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CSVWorkBootstrap.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#116#124#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -119,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="600">
-                <caret line="45" column="52" lean-forward="true" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
               </first_editor>
               <second_editor />
             </state>
@@ -145,6 +69,9 @@
       <find>$this</find>
       <find>&quot;,&quot;</find>
       <find>var_</find>
+      <find>stable</find>
+      <find>filter</find>
+      <find>search</find>
       <find>'id'</find>
     </findStrings>
   </component>
@@ -170,14 +97,14 @@
         <option value="$PROJECT_DIR$/src/models/CSVModelSearch.php" />
         <option value="$PROJECT_DIR$/src/views/work/index.php" />
         <option value="$PROJECT_DIR$/src/source/addressBook.csv" />
-        <option value="$PROJECT_DIR$/src/views/work/update.php" />
-        <option value="$PROJECT_DIR$/src/views/work/view.php" />
         <option value="$PROJECT_DIR$/src/source/addressBook_Small.csv" />
-        <option value="$PROJECT_DIR$/src/models/CSVModel.php" />
-        <option value="$PROJECT_DIR$/src/views/work/_form.php" />
-        <option value="$PROJECT_DIR$/src/controllers/WorkController.php" />
-        <option value="$PROJECT_DIR$/src/CSVWorkBootstrap.php" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/controllers/WorkController.php" />
+        <option value="$PROJECT_DIR$/src/models/CSVModel.php" />
+        <option value="$PROJECT_DIR$/src/views/work/update.php" />
+        <option value="$PROJECT_DIR$/src/views/work/_form.php" />
+        <option value="$PROJECT_DIR$/src/views/work/view.php" />
+        <option value="$PROJECT_DIR$/src/CSVWorkBootstrap.php" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -271,6 +198,24 @@
               <item name="yii2-csvwork" type="cbb8eebc:String" user="yii2-csvwork" />
               <item name="src" type="cbb8eebc:String" user="src" />
               <item name="controllers" type="cbb8eebc:String" user="controllers" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="yii2-csvwork" type="cbb8eebc:String" user="yii2-csvwork" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="models" type="cbb8eebc:String" user="models" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="yii2-csvwork" type="cbb8eebc:String" user="yii2-csvwork" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="source" type="cbb8eebc:String" user="source" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="yii2-csvwork" type="cbb8eebc:String" user="yii2-csvwork" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="views" type="cbb8eebc:String" user="views" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -378,12 +323,12 @@
       <workItem from="1539886175730" duration="14754000" />
       <workItem from="1539928199411" duration="14762000" />
       <workItem from="1539951153621" duration="4920000" />
-      <workItem from="1539969754761" duration="23397000" />
+      <workItem from="1539969754761" duration="24737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91919000" />
+    <option name="totallyTimeSpent" value="93259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -394,8 +339,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32692307" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1125" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32692307" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1125" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298077" />
@@ -451,9 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#129#180#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -519,9 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#129#180#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -574,9 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <element signature="e#129#180#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,20 +578,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/models/dataProviders/CsvDataProvider.php" />
-    <entry file="file://$PROJECT_DIR$/src/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/CSVModelSearch.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="530">
@@ -701,45 +623,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/work/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/work/update.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/curl/curl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="2350" column="9" selection-start-line="2350" selection-start-column="9" selection-end-line="2350" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/CSVModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
-          <folding>
-            <element signature="e#43#94#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/work/_form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
-          <folding>
-            <element signature="e#7#28#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -755,36 +642,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/controllers/WorkController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        <state relative-caret-position="-1352">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/CSVModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#129#180#0#PHP" expanded="true" />
+            <element signature="e#43#94#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/work/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/work/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#7#28#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/work/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="e#7#28#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CSVWorkBootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="e#116#124#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/src/models/CSVModelSearch.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="714">
+          <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="600">
-            <caret line="45" column="52" lean-forward="true" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
           </first_editor>
           <second_editor />
         </state>

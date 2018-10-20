@@ -8,9 +8,7 @@
 
 namespace gurikin\csvwork\controllers;
 
-use gurikin\csvwork\models\Helpers\GeneratorHelper;
 use gurikin\csvwork\models\CSVModel;
-use gurikin\csvwork\models\CSVModelSearch;
 use yii;
 use yii\web\Controller;
 use yii\data\Pagination;

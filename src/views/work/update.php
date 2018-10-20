@@ -1,10 +1,9 @@
 <?php
 
 use yii\helpers\Html;
-use app\models\Post;
 
 /* @var $this yii\web\View */
-/* @var $model app\models\InputReestr */
+
 
 $this->title = 'Изменить строку номер: ' . $model['stringNumber'];
 

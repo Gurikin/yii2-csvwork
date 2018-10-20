@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: gurik
- * Date: 17.10.2018
- * Time: 6:26
- */
 
 namespace gurikin\csvwork;
 

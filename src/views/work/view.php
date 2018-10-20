@@ -4,7 +4,6 @@ use yii\helpers\Html;
 use yii\widgets\DetailView;
 
 /* @var $this yii\web\View */
-/* @var $model app\models\Post */
 
 $this->title = $model['stringNumber'];
 $this->params['breadcrumbs'][] = ['label' => 'CSVWork', 'url' => ['index']];

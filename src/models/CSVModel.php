@@ -32,6 +32,10 @@ class CSVModel extends Model
      */
     protected $filterField;
 
+    /**
+     * CSVModel constructor.
+     * @param $filename
+     */
     public function __construct($filename)
     {
         $this->filename = $filename;
@@ -43,6 +47,9 @@ class CSVModel extends Model
         $this->fileObject = new \SplFileObject($this->filename);
     }
 
+    /**
+     * @return array
+     */
     public function getModel()
     {
         $models = [];
@@ -80,6 +87,10 @@ class CSVModel extends Model
         return false;
     }
 
+    /**
+     * @param $id
+     * @return array
+     */
     public function findOne($id) {
         $columns = $this->getColumnHeads();
         $this->fileObject->seek($id);
@@ -91,6 +102,9 @@ class CSVModel extends Model
         return $model;
     }
 
+    /**
+     * @param $id
+     */
     public function delete($id) {
         try {
             while (!$this->fileObject->eof()) {
@@ -108,6 +122,10 @@ class CSVModel extends Model
         }
     }
 
+    /**
+     * @param $model
+     * @return bool
+     */
     public function save($model) {
         try {
             $this->fileObject->seek(0);
@@ -132,6 +150,11 @@ class CSVModel extends Model
         return false;
     }
 
+    /**
+     * @param $model
+     * @param $field
+     * @return array
+     */
     public function filter($model, $field)
     {
         $this->filterField = $field;
