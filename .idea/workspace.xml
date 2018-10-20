@@ -30,7 +30,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WorkController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WorkController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controllers/WorkController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="215">
@@ -38,6 +38,15 @@
               <folding>
                 <element signature="e#129#180#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -98,10 +107,22 @@
         <entry file="file://$PROJECT_DIR$/src/CSVWorkBootstrap.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#116#124#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="600">
+                <caret line="45" column="52" lean-forward="true" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -147,16 +168,17 @@
         <option value="$PROJECT_DIR$/src/models/dataProviders/CsvDataProvider.php" />
         <option value="$PROJECT_DIR$/src/Module.php" />
         <option value="$PROJECT_DIR$/src/models/CSVModelSearch.php" />
-        <option value="$PROJECT_DIR$/src/CSVWorkBootstrap.php" />
         <option value="$PROJECT_DIR$/src/views/work/index.php" />
         <option value="$PROJECT_DIR$/src/source/addressBook.csv" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/views/work/update.php" />
         <option value="$PROJECT_DIR$/src/views/work/view.php" />
         <option value="$PROJECT_DIR$/src/source/addressBook_Small.csv" />
         <option value="$PROJECT_DIR$/src/models/CSVModel.php" />
         <option value="$PROJECT_DIR$/src/views/work/_form.php" />
         <option value="$PROJECT_DIR$/src/controllers/WorkController.php" />
+        <option value="$PROJECT_DIR$/src/CSVWorkBootstrap.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -169,7 +191,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1167" />
@@ -244,6 +266,61 @@
               <item name="yii2-csvwork" type="cbb8eebc:String" user="yii2-csvwork" />
               <item name="src" type="cbb8eebc:String" user="src" />
             </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="yii2-csvwork" type="cbb8eebc:String" user="yii2-csvwork" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="controllers" type="cbb8eebc:String" user="controllers" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="F:" type="cbb8eebc:String" user="F:" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="F:" type="cbb8eebc:String" user="F:" />
+              <item name="Sites" type="cbb8eebc:String" user="Sites" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="F:" type="cbb8eebc:String" user="F:" />
+              <item name="Sites" type="cbb8eebc:String" user="Sites" />
+              <item name="PHP" type="cbb8eebc:String" user="PHP" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="F:" type="cbb8eebc:String" user="F:" />
+              <item name="Sites" type="cbb8eebc:String" user="Sites" />
+              <item name="PHP" type="cbb8eebc:String" user="PHP" />
+              <item name="www" type="cbb8eebc:String" user="www" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="F:" type="cbb8eebc:String" user="F:" />
+              <item name="Sites" type="cbb8eebc:String" user="Sites" />
+              <item name="PHP" type="cbb8eebc:String" user="PHP" />
+              <item name="www" type="cbb8eebc:String" user="www" />
+              <item name="RUSOFT.test" type="cbb8eebc:String" user="RUSOFT.test" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="F:" type="cbb8eebc:String" user="F:" />
+              <item name="Sites" type="cbb8eebc:String" user="Sites" />
+              <item name="PHP" type="cbb8eebc:String" user="PHP" />
+              <item name="www" type="cbb8eebc:String" user="www" />
+              <item name="RUSOFT.test" type="cbb8eebc:String" user="RUSOFT.test" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -301,23 +378,24 @@
       <workItem from="1539886175730" duration="14754000" />
       <workItem from="1539928199411" duration="14762000" />
       <workItem from="1539951153621" duration="4920000" />
-      <workItem from="1539969754761" duration="20764000" />
+      <workItem from="1539969754761" duration="23397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89286000" />
+    <option name="totallyTimeSpent" value="91919000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1167" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3297769" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22546972" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32692307" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1125" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298077" />
@@ -527,16 +605,6 @@
     <entry file="file://$PROJECT_DIR$/src/addressBook.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AutoloadExample.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -606,23 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="99" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CSVWorkBootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="e#116#124#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -700,11 +751,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/controllers/WorkController.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -713,6 +760,33 @@
           <folding>
             <element signature="e#129#180#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CSVWorkBootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#116#124#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="600">
+            <caret line="45" column="52" lean-forward="true" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -21,11 +21,27 @@ or add
 
 to the require section of your `composer.json` file.
 
-
 Usage
 -----
 
-Once the extension is installed, simply use it in your code by  :
+Once the extension is installed, simply use it as the module on
+
+```
+http://SERVER_NAME/csvwork/work/index
+```
+
+or You can use this extension by using main model class
 
 ```php
-<?= \gurikin\csvwork\AutoloadExample::widget(); ?>```
+\gurikin\csvwork\src\models\CSVModel
+```
+see the WorkController class for example.
+
+IT IS IMPORTANT!!!
+
+Main source file "source.csv" put on the
+```
+\gurikin\csvwork\src\source\source.csv
+```
+You can fill it as you want (with csv rules) but I strongly suggest to use as the delimiter between the columns ";" char.
+If you want to change content of this file - you need to create new views and forms and use it instead the default.

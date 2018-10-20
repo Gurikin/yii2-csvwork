@@ -11,10 +11,6 @@ namespace gurikin\csvwork;
 use yii;
 use yii\base\BootstrapInterface;
 
-set_time_limit(500);
-
-
-
 class CSVWorkBootstrap implements BootstrapInterface
 {
     public function bootstrap($app)
